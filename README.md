@@ -1,4 +1,4 @@
-### KONICHIIWA 👋
+### #KONICHIIWA 👋
 
 I'm Vicky, a passionate software engineering student who loves to explore the world of technology and build cool stuff!
 
