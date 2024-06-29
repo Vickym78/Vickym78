@@ -1,19 +1,23 @@
-### #KONICHIIWA 👋
+<div align="center">
 
-I'm Vicky, a passionate software engineering student who loves to explore the world of technology and build cool stuff!
+# Konnichiwa👋, I'm [Vicky Mahato !](https://github.com/Vickym78/)
+<h3 align="center">A Passionate ML/Web  Developer  from Kolkata, West Bengal</h3>
+<h3 align="center">Currently ! 3rd Year B.tech CSE_(AIML) ,From Techno Main Salt Lake,Kolkata ,West Bengal</h3>
+</div>
 
-🔭 I’m currently working on building projects to strengthen my skills in Python, JavaScript, Java, and C++.
+## Connect with me :
 
-🌱 I’m currently learning Data Structures and Algorithms (DSA) and Web Development to enhance my problem-solving abilities and create engaging web applications.
+<div align=center>
+<a href="www.linkedin.com/in/vicky-mahato-450b57253/" alt="Vicky Mahato | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
+<a href="mailto:vickymahato2003@gmail.com" alt="Vicky Mahato| Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
+<a href="https://www.instagram.com/vicky_07043/" alt="Vicky Mahato | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> 
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny17082&label=Profile%20views&color=0e75b6&style=flat" alt="sunny17082" /> </p>
+ 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-👯 I’m looking to collaborate on open-source projects or innovative software ideas where I can contribute my skills and learn from others.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-💬 Ask me about anything related to programming, software development, or technology. I'm always eager to share knowledge and help others grow!
-
-📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vicky-mahato-450b57253) or [Instagram](https://www.instagram.com/vicky_07043/)!
-
-😄 Pronouns: He/Him
-
-![Code](https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide.jpg)
-
-⚡ Fun fact: I'm an avid reader and love to explore new genres of books in my free time!
+ <p align="center"><img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif" width="500"/></p>
