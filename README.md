@@ -7,13 +7,23 @@
 
 ## Connect with me :
 
-<div align=center>
-<a href="www.linkedin.com/in/vicky-mahato-450b57253/" alt="Vicky Mahato | LinkedIn"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" ></a> &nbsp;
-<a href="mailto:vickymahato2003@gmail.com" alt="Vicky Mahato| Gmail"><img src="https://img.icons8.com/fluent/48/000000/gmail.png">
-<a href="https://www.instagram.com/vicky_07043/" alt="Vicky Mahato | Instagram"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" ></a> 
+<div align="center">
+    <a href="https://www.linkedin.com/in/vicky-mahato-450b57253/" alt="Vicky Mahato | LinkedIn">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="width: 48px; height: 48px;">
+    </a> &nbsp;
+    <a href="mailto:vickymahato2003@gmail.com" alt="Vicky Mahato | Gmail">
+        <img src="https://img.icons8.com/fluent/48/000000/gmail.png" style="width: 48px; height: 48px;">
+    </a> &nbsp;
+    <a href="https://www.instagram.com/vicky_07043/" alt="Vicky Mahato | Instagram">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="width: 48px; height: 48px;">
+    </a> &nbsp;
+    <a href="https://leetcode.com/u/Vikm/" alt="Vicky Mahato | Leetcode">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" style="width: 48px; height: 48px;">
+    </a>
 </div>
+
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunny17082&label=Profile%20views&color=0e75b6&style=flat" alt="sunny17082" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vickym78&label=Profile%20views&color=0e75b6&style=flat" /> </p>
  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
