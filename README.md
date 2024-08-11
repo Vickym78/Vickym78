@@ -2,7 +2,7 @@
 
 # Konnichiwa👋, I'm [Vicky Mahato !](https://github.com/Vickym78/)
 <h3 align="center">A Passionate ML/Web  Developer  from Kolkata, West Bengal</h3>
-<h3 align="center">Currently ! 3rd Year B.tech CSE_(AIML) ,From Techno Main Salt Lake,Kolkata ,West Bengal</h3>
+<h3 align="center">Currently ! Final Year B.tech CSE_(AIML) ,From Techno Main Salt Lake,Kolkata ,West Bengal</h3>
 </div>
 
 ## Connect with me :
